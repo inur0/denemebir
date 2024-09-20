@@ -1,0 +1,2 @@
+# denemebir
+ilk denemelerim
